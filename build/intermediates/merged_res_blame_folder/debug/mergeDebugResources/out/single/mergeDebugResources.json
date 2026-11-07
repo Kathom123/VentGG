@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.gasvent.app-debug-23:/drawable_ic_gasvent.xml.flat",
+        "source": "com.gasvent.app-main-25:/drawable/ic_gasvent.xml"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gasvent.app-mergeDebugResources-21:/values-nl/values-nl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nobit\\.gradle\\caches\\8.13\\transforms\\b369f3894c6b146bafbf78b50a7a2dea\\transformed\\core-1.15.0\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,259,359,459,566,670,789",
+                        "endColumns": "101,101,99,99,106,103,118,100",
+                        "endOffsets": "152,254,354,454,561,665,784,885"
+                    }
+                }
+            ]
+        }
+    ]
+}
